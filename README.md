@@ -1,3 +1,3 @@
-# Android_Download_zip_and_unzip
+# Download_Zip_and_Unzip
 
 Download zip and unzip file using AsyncTask in Android.
